@@ -1,0 +1,24 @@
+{
+  "name": "sgb-screen-image",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SYNERGY-GB/sgb-screen-image",
+  "authors": [
+    "Juan Garcia <juan.garcia@synergy-gb.com>"
+  ],
+  "main": "dist/sgb-screens-image.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "Propietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "megazord-framework": "git@github.com:SYNERGY-GB/megazord-framework.git#master"
+  }
+}
