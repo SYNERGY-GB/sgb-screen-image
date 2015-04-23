@@ -11,7 +11,7 @@ gulp.task('build', function(){
     return b.bundle();
   });
 
-  return gulp.src('src/sgb-screen-img.js')
+  return gulp.src('src/sgb-screen-image.js')
     .pipe(browserified)
     .pipe(gulp.dest('./dist/'));
 });
