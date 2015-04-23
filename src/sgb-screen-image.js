@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('sgb-screen-image', ['megazord'])
-  .controller('sgb-screen-image-controller', ['$stateParams', '$scope', function($stateParams, $scope){
+angular.module('sgb-screen-img', ['megazord'])
+  .controller('sgb-screen-img-controller', ['$stateParams', '$scope', function($stateParams, $scope){
     $scope.image = $stateParams.data;
   }]);

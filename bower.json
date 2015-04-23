@@ -1,11 +1,11 @@
 {
-  "name": "sgb-screen-image",
+  "name": "sgb-screen-img",
   "version": "0.0.0",
-  "homepage": "https://github.com/SYNERGY-GB/sgb-screen-image",
+  "homepage": "https://github.com/SYNERGY-GB/sgb-screen-img",
   "authors": [
     "Juan Garcia <juan.garcia@synergy-gb.com>"
   ],
-  "main": "dist/sgb-screens-image.js",
+  "main": "dist/sgb-screens-img.js",
   "moduleType": [
     "globals"
   ],

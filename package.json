@@ -2,20 +2,20 @@
   "name": "sgb-screen-image",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/sgb-screen-image.js",
+  "main": "dist/sgb-screen-img.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SYNERGY-GB/sgb-screen-image.git"
+    "url": "https://github.com/SYNERGY-GB/sgb-screen-img.git"
   },
   "author": "Juan Garcia <juan.garcia@synergy-gb.com>",
   "license": "Propietary",
   "bugs": {
-    "url": "https://github.com/SYNERGY-GB/sgb-screen-image/issues"
+    "url": "https://github.com/SYNERGY-GB/sgb-screen-img/issues"
   },
-  "homepage": "https://github.com/SYNERGY-GB/sgb-screen-image",
+  "homepage": "https://github.com/SYNERGY-GB/sgb-screen-img",
   "devDependencies": {
     "browserify": "^9.0.3",
     "gulp": "^3.8.11",
